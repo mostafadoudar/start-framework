@@ -1,0 +1,17 @@
+.navbar 
+{
+        background-color: #2C3E50;
+}
+
+.bttn:focus
+{
+   border: none;    
+   background-color: #1ABC9C;
+   height: 40px;
+   border-radius: 5px;
+   padding: 15px;
+   display: flex;   
+   align-items: center;
+   text-align: center;
+   transition: 0.3s;
+}
